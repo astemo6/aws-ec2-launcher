@@ -26,3 +26,7 @@ AWS EC2 开机小助手，调用API创建EC2机器，减少因为浏览器指纹
 ## 二开声明
 
 反正我都是抄来的，爱咋咋地吧，尊重最原始作者的版权就行了。
+
+## AWS提取API
+
+[us-east-1.console.aws.amazon.com](https://us-east-1.console.aws.amazon.com/iam/home?region=us-east-1#/security_credentials)
